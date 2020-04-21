@@ -6,7 +6,7 @@ This is the first step to build a Commercial Application by using Shopify Platfo
 
 ## Overview
 
-This is the basic version of an automated local search marketing platform for businesses and brands and gaussips. That Application build by GraphQL APIs in Node.js using ES6, Koa.js, react.js, next.js, firebase authentication and shopify polaris library. It Helps you stay productive by following best practices. Follows [latest Javascript syntax guide](http://www.ecma-international.org/ecma-262/6.0/).
+This is the basic version of an automated local search marketing platform for businesses, brands and gaussips. That Application build by GraphQL APIs in Node.js using ES6, Koa.js, react.js, next.js, firebase authentication and shopify polaris library. It Helps you stay productive by following best practices. Follows [latest Javascript syntax guide](http://www.ecma-international.org/ecma-262/6.0/).
 
 ### Authentication process
 
